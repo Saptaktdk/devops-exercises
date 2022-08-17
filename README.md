@@ -366,7 +366,7 @@ Read more [here](https://linuxjourney.com/lesson/dhcp-overview)
 
 <details>
 <summary>What is SDN?</summary><br><b>
-</b></details>
+</b>Software-Defined Networking (SDN) is an approach to networking that uses software-based controllers or application programming interfaces (APIs) to communicate with underlying hardware infrastructure and direct traffic on a network.</details>
 
 <details>
 <summary>What is ICMP? What is it used for?</summary><br><b>
@@ -432,7 +432,7 @@ Control Plane.
 
 <details>
 <summary>Explain Spanning Tree Protocol (STP)</summary><br><b>
-</b></details>
+</b>Spanning Tree Protocol (STP) is a Layer 2 protocol that runs on bridges and switches. The specification for STP is IEEE 802.1D. The main purpose of STP is to ensure that you do not create loops when you have redundant paths in your network.</details>
 
 <details>
 <summary>What is link aggregation? Why is it used?</summary><br><b>
@@ -456,7 +456,7 @@ Control Plane.
 
 <details>
 <summary>What is SNAT?</summary><br><b>
-</b></details>
+</b>Source Network Address Translation (source-nat or SNAT) allows traffic from a private network to go out to the internet. Virtual machines launched on a private network can get to the internet by going through a gateway capable of performing SNAT.</details>
 
 <details>
 <summary>Explain OSPF</summary><br><b>
