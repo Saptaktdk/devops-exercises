@@ -1186,7 +1186,7 @@ It means that the key of the remote host was changed and doesn't match the one t
 
 <details>
 <summary>What is the difference between SSH and SSL?</summary><br><b>
-</b></details>
+</b>SSH is used for creating a secure tunnel to another computer from which you can issue commands, transfer data, etc. On the other end, SSL is used for securely transferring data between two parties – it does not let you issue commands as you can with SSH.</details>
 
 <details>
 <summary>What <code>ssh-keygen</code> is used for?</summary><br><b>
