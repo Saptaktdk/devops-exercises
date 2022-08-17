@@ -284,9 +284,15 @@ From [wikipedia](https://en.wikipedia.org/wiki/Round-trip_delay): "the length of
 
 Bonus question: what is the RTT of LAN?
 </b></details>
+Round-trip time (RTT) is the duration, measured in milliseconds, from when a browser sends a request to when it receives a response from a server. 
 
 <details>
 <summary>How does SSL handshake work?</summary><br><b>
+1.The client sends a request to the server for a secure session. The server responds by sending its X.509 digital certificate to the client.
+2.The client receives the server's X.509 digital certificate.
+3.The client authenticates the server, using a list of known certificate authorities.
+4.The client generates a random symmetric key and encrypts it using server's public key.
+5.The client and server now both know the symmetric key and can use the SSL encryption process to encrypt and decrypt the information contained in the client request and the server response.
 </b></details>
 
 <details>
