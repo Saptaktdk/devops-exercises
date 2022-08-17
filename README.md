@@ -381,7 +381,12 @@ For example, your computer's private IP could be 192.168.1.100, but your router 
 
 <details>
 <summary>Which factors affect network performances</summary><br><b>
-</b></details>
+The performance can be affected by various factors:
+1.The number of devices on the network.
+2.The bandwidth of the transmission medium.
+3.The type of network traffic.
+4.Network latency.
+5.the number of transmission errors.</b></details>
 
 <details>
 <summary>Which port number is used in each of the following protocols?:
