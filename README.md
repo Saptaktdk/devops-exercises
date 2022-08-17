@@ -317,6 +317,8 @@ Systems keep an ARP look-up table where they store information about what IP add
 
 <details>
 <summary>What is TTL? What does it helps to prevent?</summary><br><b>
+Time-To-Live(TTL) is a value for the period of time that a packet, or data, should exist on a computer or network before being discarded.
+It prevents data packets from moving across the network indefinitely.
 </b></details>
 
 <details>
