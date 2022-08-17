@@ -443,6 +443,8 @@ Control Plane.
 
 <details>
 <summary>What is link aggregation? Why is it used?</summary><br><b>
+Aggregation is the combining (aggregating) of multiple network connections in parallel by any of several methods.
+It is used to increase throughput beyond what a single connection could sustain, to provide redundancy in case one of the links should fail, or both.	
 </b></details>
 
 <details>
