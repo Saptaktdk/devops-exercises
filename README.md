@@ -305,6 +305,7 @@ TCP establishes a connection between the client and the server to guarantee the 
 
 <details>
 <summary>What TCP/IP protocols are you familiar with?</summary><br><b>
+	
 </b></details>
 
 <details>
@@ -342,6 +343,8 @@ Read more [here](https://linuxjourney.com/lesson/dhcp-overview)
 
 <details>
 <summary>Can you have two DHCP servers in the same network? How it works?</summary><br><b>
+Yes, it's possible to have two DHCP server in the same network.
+Each server must be configured  with their own unique IP address ranges.
 </b></details>
 
 <details>
@@ -350,6 +353,7 @@ Read more [here](https://linuxjourney.com/lesson/dhcp-overview)
 
 <details>
 <summary>What is a socket? Where can you see the list of sockets in your system?</summary><br><b>
+A socket is one endpoint of a two-way communication link between two programs running on the network.	
 </b></details>
 
 <details>
@@ -358,14 +362,17 @@ Read more [here](https://linuxjourney.com/lesson/dhcp-overview)
 
 <details>
 <summary>What is VLAN?</summary><br><b>
+A virtual LAN (VLAN) is a logical overlay network that groups together a subset of devices that share a physical LAN, isolating the traffic for each group.
 </b></details>
 
 <details>
 <summary>What is MTU?</summary><br><b>
+Maximum transmission unit (MTU) is a measurement in bytes of the largest data packets that an Internet-connected device can accept.	
 </b></details>
 
 <details>
 <summary>What happens if you send a packet that is bigger than the MTU?</summary><br><b>
+The device may fragment the packet into two smaller packets before forwarding the data.	
 </b></details>
 
 <details>
