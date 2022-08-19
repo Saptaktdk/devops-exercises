@@ -462,6 +462,7 @@ It is used to increase throughput beyond what a single connection could sustain,
 
 <details>
 <summary>What is Asymmetric Routing? How do deal with it?</summary><br><b>
+In Asymmetric routing, a packet traverses from a source to a destination in one path and takes a different path when it returns to the source. This is commonly seen in Layer-3 routed networks.	
 </b></details>
 
 <details>
